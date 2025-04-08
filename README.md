@@ -13,7 +13,8 @@ A simple and clean To-Do List web app built with HTML, CSS, and JavaScript. Add 
 ## 🚀 Features
 
 - ✅ Add new tasks
-- 🗑️ Delete tasks
+- 🗑️ Delete task
+-     Add time
 - ✏️ Mark tasks as completed
 - 💾 Saves your tasks in local storage
 
