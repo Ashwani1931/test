@@ -18,6 +18,8 @@ A simple and clean To-Do List web app built with HTML, CSS, and JavaScript. Add 
 - ✏️ Mark tasks as completed
 - 💾 Saves your tasks in local storage
 -     Priotization
+-     Task managment
+-     Activity Tracking
 
 ---
 
