@@ -28,6 +28,8 @@ A simple and clean To-Do List web app built with HTML, CSS, and JavaScript. Add 
 - HTML
 - CSS
 - JavaScript
+- MangoDB
+- React
 
 ---
 
